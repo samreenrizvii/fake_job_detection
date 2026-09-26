@@ -1,0 +1,19 @@
+# Data files
+data/
+*.csv
+
+# Saved models
+models/
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.py[cod]
+*~
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+.env
