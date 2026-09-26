@@ -65,4 +65,4 @@ TrueJob/
 Because fraudulent jobs only make up ~5% of the dataset, accuracy is a misleading metric. This project prioritizes **Recall** (catching actual scams) and the **F1-Score** (balancing false alarms). The selected `Linear SVC` model achieved an impressive F1-Score of **81.5%** with a Recall of **82.6%**.
 
 ## 👨‍💻 Author
-**[Arman Rizvi]** - 3rd Year B.Tech Data Science & Artificial Intelligence
+**[Samreen Rizvi]** 
